@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "1f36aeb840187c3984e85ec650359ae8",
+        "format": "933333",
+        "state": 2,
+        "type": 3,
+        "name": "movie.mp4#t=4.933333",
+        "path": "file:/Users/aoki/Desktop/TF2-ObjectDetectionAPI-Colab-Hands-On/01_train_data/movie.mp4#t=4.933333",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "1fdda366b609ce25bed6fbded91c5961",
+            "name": "movie.mp4",
+            "path": "file:/Users/aoki/Desktop/TF2-ObjectDetectionAPI-Colab-Hands-On/01_train_data/movie.mp4",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 4.933333
+    },
+    "regions": [
+        {
+            "id": "l0fxnAH2N",
+            "type": "RECTANGLE",
+            "tags": [
+                "Me"
+            ],
+            "boundingBox": {
+                "height": 414.39933662983907,
+                "width": 381.760107883001,
+                "left": 742.1485604669464,
+                "top": 206.62147180357974
+            },
+            "points": [
+                {
+                    "x": 742.1485604669464,
+                    "y": 206.62147180357974
+                },
+                {
+                    "x": 1123.9086683499474,
+                    "y": 206.62147180357974
+                },
+                {
+                    "x": 1123.9086683499474,
+                    "y": 621.0208084334188
+                },
+                {
+                    "x": 742.1485604669464,
+                    "y": 621.0208084334188
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
